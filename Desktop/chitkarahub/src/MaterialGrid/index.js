@@ -166,7 +166,15 @@ export const MaterialGrid = () => {
               advancing technological innovation and excellence for the benifit
               of humanity.
               <br />
-              <button className={classes.butt}>JOIN NOW</button>
+              <button
+                  className={classes.butt}
+                  type="button"
+                  onClick={(e) => {
+                    e.preventDefault();
+                    window.location.href =
+                      "https://forms.gle/hz5YaSjiKL3aGGna8";
+                  }}
+                >JOIN NOW</button>
               <br />
               <br />
               <button className={classes.popular}>
@@ -224,7 +232,15 @@ export const MaterialGrid = () => {
               Students from all undergraduate or graduate programs with an
               interest in growing as a developer are welcome.
               <br />
-              <button className={classes.butt}>JOIN NOW</button> <br />
+               <button
+                  className={classes.butt}
+                  type="button"
+                  onClick={(e) => {
+                    e.preventDefault();
+                    window.location.href =
+                      "https://forms.gle/hz5YaSjiKL3aGGna8";
+                  }}
+                >JOIN NOW</button>
               <br />
               <button className={classes.popular}>
                 <FaStar />
@@ -280,7 +296,15 @@ export const MaterialGrid = () => {
               and advance <br />
               engineering and technology throughout the country.
               <br />
-              <button className={classes.butt}>JOIN NOW</button>
+              <button
+                  className={classes.butt}
+                  type="button"
+                  onClick={(e) => {
+                    e.preventDefault();
+                    window.location.href =
+                      "https://forms.gle/hz5YaSjiKL3aGGna8";
+                  }}
+                >JOIN NOW</button>
               <br />
               <br />
               <button className={classes.popular}>
@@ -336,7 +360,15 @@ export const MaterialGrid = () => {
               help students become better problem solvers fostering learning ans
               proffesional development
               <br />
-              <button className={classes.butt}>JOIN NOW</button> <br />
+               <button
+                  className={classes.butt}
+                  type="button"
+                  onClick={(e) => {
+                    e.preventDefault();
+                    window.location.href =
+                      "https://forms.gle/hz5YaSjiKL3aGGna8";
+                  }}
+                >JOIN NOW</button>
               <br />
               <button className={classes.new}>
                 <FaSeedling />
@@ -379,7 +411,15 @@ export const MaterialGrid = () => {
               We conduct workshops, expert talks,coding competitions and much
               more.
               <br />
-              <button className={classes.butt}>JOIN NOW</button> <br />
+              <button
+                  className={classes.butt}
+                  type="button"
+                  onClick={(e) => {
+                    e.preventDefault();
+                    window.location.href =
+                      "https://forms.gle/hz5YaSjiKL3aGGna8";
+                  }}
+                >JOIN NOW</button>
               <br />
               <button className={classes.popular}>
                 <FaStar />
@@ -416,7 +456,15 @@ export const MaterialGrid = () => {
               <b>CURIN</b>
               <br />
               Chitkara University Research and Innovation Network <br />
-              <button className={classes.butt}>JOIN NOW</button>
+               <button
+                  className={classes.butt}
+                  type="button"
+                  onClick={(e) => {
+                    e.preventDefault();
+                    window.location.href =
+                      "https://forms.gle/hz5YaSjiKL3aGGna8";
+                  }}
+                >JOIN NOW</button>
               <br />
               <br />
               <button className={classes.popular}>
@@ -459,7 +507,15 @@ export const MaterialGrid = () => {
               We provide platform for individual to develop leadership skills,
               art of managing events,social development and interaction.
               <br />
-              <button className={classes.butt}>JOIN NOW</button> <br />
+               <button
+                  className={classes.butt}
+                  type="button"
+                  onClick={(e) => {
+                    e.preventDefault();
+                    window.location.href =
+                      "https://forms.gle/hz5YaSjiKL3aGGna8";
+                  }}
+                >JOIN NOW</button>
               <br />
               <button className={classes.popular}>
                 <FaStar />
@@ -494,7 +550,15 @@ export const MaterialGrid = () => {
               well prepares in the era of globalization.
               <br />
               It focuses on mechanical and robotic knowledge. <br />
-              <button className={classes.butt}>JOIN NOW</button>
+               <button
+                  className={classes.butt}
+                  type="button"
+                  onClick={(e) => {
+                    e.preventDefault();
+                    window.location.href =
+                      "https://forms.gle/hz5YaSjiKL3aGGna8";
+                  }}
+                >JOIN NOW</button>
               <br />
               <br />
               <button className={classes.popular}>
@@ -529,7 +593,15 @@ export const MaterialGrid = () => {
               <br />
               The official dance club
               <br />
-              <button className={classes.butt}>JOIN NOW</button>
+              <button
+                  className={classes.butt}
+                  type="button"
+                  onClick={(e) => {
+                    e.preventDefault();
+                    window.location.href =
+                      "https://forms.gle/hz5YaSjiKL3aGGna8";
+                  }}
+                >JOIN NOW</button>
               <br />
               <br />
               <button className={classes.popular}>
@@ -567,7 +639,15 @@ export const MaterialGrid = () => {
               <br />
               Cultural Bhangra Club
               <br />
-              <button className={classes.butt}>JOIN NOW</button>
+               <button
+                  className={classes.butt}
+                  type="button"
+                  onClick={(e) => {
+                    e.preventDefault();
+                    window.location.href =
+                      "https://forms.gle/hz5YaSjiKL3aGGna8";
+                  }}
+                >JOIN NOW</button>
               <br />
               <br />
               <button className={classes.popular}>
@@ -605,7 +685,15 @@ export const MaterialGrid = () => {
               <br />
               Cultural singing society
               <br />
-              <button className={classes.butt}>JOIN NOW</button>
+              <button
+                  className={classes.butt}
+                  type="button"
+                  onClick={(e) => {
+                    e.preventDefault();
+                    window.location.href =
+                      "https://forms.gle/hz5YaSjiKL3aGGna8";
+                  }}
+                >JOIN NOW</button>
               <br />
               <br />
               <button className={classes.new}>
@@ -647,7 +735,15 @@ export const MaterialGrid = () => {
               <br />
               Official Modelling club
               <br />
-              <button className={classes.butt}>JOIN NOW</button>
+               <button
+                  className={classes.butt}
+                  type="button"
+                  onClick={(e) => {
+                    e.preventDefault();
+                    window.location.href =
+                      "https://forms.gle/hz5YaSjiKL3aGGna8";
+                  }}
+                >JOIN NOW</button>
               <br />
               <br />
               <button className={classes.popular}>
@@ -685,7 +781,15 @@ export const MaterialGrid = () => {
               <br />
               Clutural society for street shows/ Natak
               <br />
-              <button className={classes.butt}>JOIN NOW</button>
+              <button
+                  className={classes.butt}
+                  type="button"
+                  onClick={(e) => {
+                    e.preventDefault();
+                    window.location.href =
+                      "https://forms.gle/hz5YaSjiKL3aGGna8";
+                  }}
+                >JOIN NOW</button>
               <br />
               <br />
               <button className={classes.popular}>
@@ -723,7 +827,15 @@ export const MaterialGrid = () => {
               <br />
               Official Society for Gidda
               <br />
-              <button className={classes.butt}>JOIN NOW</button>
+               <button
+                  className={classes.butt}
+                  type="button"
+                  onClick={(e) => {
+                    e.preventDefault();
+                    window.location.href =
+                      "https://forms.gle/hz5YaSjiKL3aGGna8";
+                  }}
+                >JOIN NOW</button>
               <br />
               <br />
               <button className={classes.popular}>
@@ -761,7 +873,15 @@ export const MaterialGrid = () => {
               <br />
               Offiaial Theatre club of Chitkara University
               <br />
-              <button className={classes.butt}>JOIN NOW</button>
+             <button
+                  className={classes.butt}
+                  type="button"
+                  onClick={(e) => {
+                    e.preventDefault();
+                    window.location.href =
+                      "https://forms.gle/hz5YaSjiKL3aGGna8";
+                  }}
+                >JOIN NOW</button>
               <br />
               <br />
               <button className={classes.new}>
@@ -803,7 +923,15 @@ export const MaterialGrid = () => {
               <br />
               Cultural Photography Club
               <br />
-              <button className={classes.butt}>JOIN NOW</button>
+              <button
+                  className={classes.butt}
+                  type="button"
+                  onClick={(e) => {
+                    e.preventDefault();
+                    window.location.href =
+                      "https://forms.gle/hz5YaSjiKL3aGGna8";
+                  }}
+                >JOIN NOW</button>
               <br />
               <br />
               <button className={classes.popular}>
@@ -841,7 +969,15 @@ export const MaterialGrid = () => {
               <br />
               The Literary CLub
               <br />
-              <button className={classes.butt}>JOIN NOW</button>
+             <button
+                  className={classes.butt}
+                  type="button"
+                  onClick={(e) => {
+                    e.preventDefault();
+                    window.location.href =
+                      "https://forms.gle/hz5YaSjiKL3aGGna8";
+                  }}
+                >JOIN NOW</button>
               <br />
               <br />
               <button className={classes.new}>
@@ -883,7 +1019,15 @@ export const MaterialGrid = () => {
               <br />
               Official Classical Dance club
               <br />
-              <button className={classes.butt}>JOIN NOW</button>
+               <button
+                  className={classes.butt}
+                  type="button"
+                  onClick={(e) => {
+                    e.preventDefault();
+                    window.location.href =
+                      "https://forms.gle/hz5YaSjiKL3aGGna8";
+                  }}
+                >JOIN NOW</button>
               <br />
               <br />
               <button className={classes.popular}>
@@ -921,7 +1065,15 @@ export const MaterialGrid = () => {
               <br />
               National Servise Scheme
               <br />
-              <button className={classes.butt}>JOIN NOW</button>
+              <button
+                  className={classes.butt}
+                  type="button"
+                  onClick={(e) => {
+                    e.preventDefault();
+                    window.location.href =
+                      "https://forms.gle/hz5YaSjiKL3aGGna8";
+                  }}
+                >JOIN NOW</button>
               <br />
               <br />
               <button className={classes.popular}>
@@ -962,7 +1114,15 @@ export const MaterialGrid = () => {
               <br />
               We provide grand platforms to you to show your wonderful worths.
               <br />
-              <button className={classes.butt}>JOIN NOW</button>
+               <button
+                  className={classes.butt}
+                  type="button"
+                  onClick={(e) => {
+                    e.preventDefault();
+                    window.location.href =
+                      "https://forms.gle/hz5YaSjiKL3aGGna8";
+                  }}
+                >JOIN NOW</button>
               <br />
               <br />
               <button className={classes.popular}>
@@ -1000,7 +1160,15 @@ export const MaterialGrid = () => {
               <br />
 
               <br />
-              <button className={classes.butt}>JOIN NOW</button>
+              <button
+                  className={classes.butt}
+                  type="button"
+                  onClick={(e) => {
+                    e.preventDefault();
+                    window.location.href =
+                      "https://forms.gle/hz5YaSjiKL3aGGna8";
+                  }}
+                >JOIN NOW</button>
               <br />
               <br />
 
