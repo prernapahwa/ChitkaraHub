@@ -1158,7 +1158,7 @@ export const MaterialGrid = () => {
               </div>
               <b> TOASTMASTERS</b>
               <br />
-
+                    Toastmasters is a non-profit educational organization that teaches <br/>public speaking and leadership skills trough a wordwide network of clubs.
               <br />
               <button
                   className={classes.butt}
