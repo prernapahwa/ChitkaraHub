@@ -99,6 +99,9 @@ padding: 1rem;
 }
 header {
   display: block;
+  height: 70px;
+  text-align: center;
+  padding-top: 10px;
 }
 .upper-logo {
   height: 50px;
